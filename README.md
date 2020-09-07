@@ -1,10 +1,3 @@
-[comment]: # (Start Badges)
-
-[![Gitter](https://badges.gitter.im/tfgs-functionalprogramming-urjc/spark-tfgs.svg)](https://gitter.im/tfgs-functionalprogramming-urjc/spark-tfgs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-[comment]: # (End Badges)
-
-
 # A crash course on Spark in Scala
 
 ## Content
@@ -15,10 +8,6 @@ The course is divided into four major modules.
 2. The language of DataFrames
 3. Spark on AWS
 4. Spark optmizations & good practices
-
-## Chat room
-
-Join the chat room at: https://gitter.im/tfgs-functionalprogramming-urjc/spark-tfgs#share
 
 ## Set up using docker
 
@@ -41,12 +30,12 @@ The course is run on Jupyter notebooks. We recommend installing docker to run ju
 
     2.3 Run this command:
     ```bash
-    git clone https://github.com/jserranohidalgo/spark-intro.git [<nombre del proyecto>]
+    git clone https://github.com/jserranohidalgo/spark-intro.git 
     ```
 
     2.4 Move into your local repository
     ```bash
-    cd <nombre del proyecto>
+    cd spark-intro
     ```
 3. Run the docker image for Spark
 
@@ -110,9 +99,5 @@ You can install jupyter and the Scala kernel yourself. Please follow the followi
 - [Jupyter installation](https://jupyter.org/install)
 - [Scala kernel installation](https://almond.sh/docs/quick-start-install)
 
-
-## Acknowledgements
-
-This course owes a lot to the staff of [Habla Computing](https://hablapps.com). Particular thanks to Mikel San Vicente and Alfonso Roa.
 
 
