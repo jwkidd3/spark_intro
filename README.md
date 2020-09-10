@@ -30,7 +30,7 @@ The course is run on Jupyter notebooks. We recommend installing docker to run ju
 
     2.3 Run this command:
     ```bash
-    git clone https://github.com/jserranohidalgo/spark-intro.git 
+    git clone https://github.com/jwkidd3/spark-intro.git 
     ```
 
     2.4 Move into your local repository
